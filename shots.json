@@ -1,18 +1,18 @@
 [
   {
-    "name": "1-play.png",
+    "name": "1-play.jpg",
     "query": "?shot=play"
   },
   {
-    "name": "2-alarm.png",
+    "name": "2-alarm.jpg",
     "query": "?shot=alarm"
   },
   {
-    "name": "3-loot.png",
+    "name": "3-loot.jpg",
     "query": "?shot=loot"
   },
   {
-    "name": "4-win.png",
+    "name": "4-win.jpg",
     "query": "?shot=win"
   }
 ]
